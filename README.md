@@ -58,11 +58,13 @@
 
 <p align="left">To use jStyledComponents in your project, add the following dependency to your Maven project:<br><br>
 
-```<dependency><br>
+```
+<dependency><br>
     <groupId>com.gmai</groupId><br>
     <artifactId>jstyledcomponents</artifactId><br>
     <version>0.0.1</version><br>
-</dependency>```
+</dependency>
+```
 
 <br><br>After adding the dependency, you can start using the jStyledComponents by importing the required component and creating an instance of it.<br><br>
 For example, to use the StyledButton component, you can import it as follows:<br><br>
