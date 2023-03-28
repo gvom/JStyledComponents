@@ -59,10 +59,10 @@
 <p align="left">To use jStyledComponents in your project, add the following dependency to your Maven project:<br><br>
 
 ```
-<dependency><br>
-    <groupId>com.gmai</groupId><br>
-    <artifactId>jstyledcomponents</artifactId><br>
-    <version>0.0.1</version><br>
+<dependency>
+    <groupId>com.gmai</groupId>
+    <artifactId>jstyledcomponents</artifactId>
+    <version>0.0.1</version>
 </dependency>
 ```
 
@@ -82,7 +82,7 @@ JButtonTransparent button = new JButtonTransparent("BUTTON TEXT", ".../ICON.PNG"
 <br>You can then customize the button by calling its methods. For example, to set the background color of the button, you can call the setBackgroundColor method:<br><br>
 
 ```
-button.setButtonOpacity(true);<br>
+button.setButtonOpacity(true);
 button.setBackgroundColor(Color.BLUE);
 ```
 
