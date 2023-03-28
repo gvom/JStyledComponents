@@ -58,20 +58,25 @@
 
 <p align="left">To use jStyledComponents in your project, add the following dependency to your Maven project:<br><br>
 
-```<dependency><br>    <groupId>com.gmai</groupId><br>    <artifactId>jstyledcomponents</artifactId><br>    <version>0.0.1</version><br></dependency>```
+```<dependency><br>
+    <groupId>com.gmai</groupId><br>
+    <artifactId>jstyledcomponents</artifactId><br>
+    <version>0.0.1</version><br>
+</dependency>```
 
 <br><br>After adding the dependency, you can start using the jStyledComponents by importing the required component and creating an instance of it.<br><br>
 For example, to use the StyledButton component, you can import it as follows:<br><br>
 
 ```import com.gmai.jstyledcomponents.JButtonTransparent;```
 
-<br>And then create an instance of it:<br><br>
+<br>And then create an instance of it:<br>
 
 ```JButtonTransparent button = new JButtonTransparent("BUTTON TEXT", ".../ICON.PNG", parentWindow);```
 
 <br><br>You can then customize the button by calling its methods. For example, to set the background color of the button, you can call the setBackgroundColor method:<br><br>
 
-```button.setButtonOpacity(true);<br>button.setBackgroundColor(Color.BLUE);```
+```button.setButtonOpacity(true);<br>
+button.setBackgroundColor(Color.BLUE);```
 
 </p>
 
