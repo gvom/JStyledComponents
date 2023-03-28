@@ -34,7 +34,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:gvom/JStyledComponents.git</connection>
 		<developerConnection>scm:git:ssh://github.com:gvom/JStyledComponents.git</developerConnection>
-		<url>https://github.com/gvom/JStyledComponents/tree/main</url>
+		<url>https://github.com/gvom/JStyledComponents/tree/master</url>
 	</scm>
 
 	<properties>
