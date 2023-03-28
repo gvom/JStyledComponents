@@ -69,7 +69,9 @@
 <br><br>After adding the dependency, you can start using the jStyledComponents by importing the required component and creating an instance of it.<br><br>
 For example, to use the StyledButton component, you can import it as follows:<br><br>
 
-```import com.gmai.jstyledcomponents.JButtonTransparent;```
+```
+import com.gmai.jstyledcomponents.JButtonTransparent;
+```
 
 <br>And then create an instance of it:<br>
 
