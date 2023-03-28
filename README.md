@@ -117,9 +117,3 @@ button.setBackgroundColor(Color.BLUE);
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gvom/count.svg?"  />
-</div>
-
-###
