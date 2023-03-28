@@ -73,12 +73,16 @@ For example, to use the StyledButton component, you can import it as follows:<br
 
 <br>And then create an instance of it:<br>
 
-```JButtonTransparent button = new JButtonTransparent("BUTTON TEXT", ".../ICON.PNG", parentWindow);```
+```
+JButtonTransparent button = new JButtonTransparent("BUTTON TEXT", ".../ICON.PNG", parentWindow);
+```
 
 <br><br>You can then customize the button by calling its methods. For example, to set the background color of the button, you can call the setBackgroundColor method:<br><br>
 
-```button.setButtonOpacity(true);<br>
-button.setBackgroundColor(Color.BLUE);```
+```
+button.setButtonOpacity(true);<br>
+button.setBackgroundColor(Color.BLUE);
+```
 
 </p>
 
