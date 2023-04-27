@@ -60,7 +60,7 @@
 
 ```
 <dependency>
-    <groupId>com.gmai</groupId>
+    <groupId>io.github.gvom</groupId>
     <artifactId>jstyledcomponents</artifactId>
     <version>0.0.1</version>
 </dependency>
@@ -108,7 +108,7 @@ button.setBackgroundColor(Color.BLUE);
 
 ###
 
-<h3 align="left">🔥   Project Stats :</h3>
+<h3 align="left">🔥 Project Stats :</h3>
 
 ###
 
