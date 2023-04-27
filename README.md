@@ -108,7 +108,7 @@ button.setBackgroundColor(Color.BLUE);
 
 ###
 
-<h3 align="left">🔥   Project Stats :</h3>
+<h3 align="left">🔥 Project Stats :</h3>
 
 ###
 
