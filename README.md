@@ -62,7 +62,7 @@
 <dependency>
     <groupId>com.gmai</groupId>
     <artifactId>jstyledcomponents</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.1</version>
 </dependency>
 ```
 
