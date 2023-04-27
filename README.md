@@ -60,7 +60,7 @@
 
 ```
 <dependency>
-    <groupId>com.gmai</groupId>
+    <groupId>io.github.gvom</groupId>
     <artifactId>jstyledcomponents</artifactId>
     <version>0.0.1</version>
 </dependency>
