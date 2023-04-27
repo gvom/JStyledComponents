@@ -7,7 +7,7 @@
 
 	<groupId>com.gmai</groupId>
 	<artifactId>jstyledcomponents</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 
 	<description>
 	    This project is a library for styled JComponents for Swing.
